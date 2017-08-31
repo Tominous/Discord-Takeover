@@ -1,7 +1,7 @@
-#OwO, what's this?
+# OwO, what's this?
 Discord Takeover is a simple discord bot that allows you to rename everyone in your server to something you specify. It's probably against the TOS soon. So that we don't annoy discord, 1 name is changed per 10 seconds.
 
-#Ok, how do I use it?
+# Ok, how do I use it?
 You must host Discord Takeover yourself. It's extremely simple to do too. First, either download a release from [here](https://github.com/Dot-Rar/Discord-Takeover), or compile it from source by running
 ```bash
 git clone https://github.com/Dot-Rar/Discord-Takeover.git
